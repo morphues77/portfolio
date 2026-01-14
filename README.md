@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: [V](https://portfolio-morphues77s-projects.vercel.app/)
+**URL**: [kabilan.cyber](https://portfolio-morphues77s-projects.vercel.app/)
 
 ## What technologies are used for this project?
 
